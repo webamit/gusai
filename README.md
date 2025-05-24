@@ -94,3 +94,4 @@ Connect with the community! Feel free to ask questions, report issues, and meet 
 ⭐️ [Copyright 2023 Horizon UI ](https://www.horizon-ui.com/?ref=readme-horizon-ai-template-pro)
 
 📄 [Horizon UI License](https://horizon-ui.notion.site/End-User-License-Agreement-8fb09441ea8c4c08b60c37996195a6d5)
+# gusai
